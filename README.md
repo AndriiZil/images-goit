@@ -1,0 +1,9 @@
+# images-goit
+* https://github.com/googleapis/nodejs-storage/blob/master/samples/uploadFile.js
+* https://cloud.google.com/storage/docs/quickstart-console
+* https://console.cloud.google.com/storage/browser?project=go-it-project&prefix=
+* https://cloud.google.com/iam/docs/creating-managing-service-account-keys
+* https://console.cloud.google.com/iam-admin/serviceaccounts?project=go-it-project&supportedpurview=project
+* https://www.npmjs.com/package/morgan
+* https://www.npmjs.com/package/@google-cloud/storage
+* https://www.npmjs.com/package/imagemin
